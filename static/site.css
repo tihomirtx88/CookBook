@@ -1,0 +1,90 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 70%;
+    margin: 0 auto 0 auto;
+}
+
+header {
+    padding: 32px;
+    background-color: #668128;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+h1 {
+    font-size: 150%;
+    display: inline;
+    font-style: oblique;
+}
+
+main {
+    background-color: #666666;
+    padding: 32px;
+    background: url("../de84_06_miyako-island-mangoes.jpg"); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+nav {
+    display: inline-block;
+    position: absolute;
+    right: 16px;
+    text-align: right;
+}
+
+nav div {
+    display: inline-block;
+}
+
+nav a {
+    display: inline-block;
+    background-color: rgb(229, 161, 153);
+    padding: 8px 16px;
+    margin: 0 8px;
+    text-decoration: none;
+    color: black;
+    border-radius: 18px;
+    font-style: oblique;
+}
+
+nav a:hover {
+    background-color: #6c8b47;
+    color: white;
+}
+
+a.active {
+    background-color: #6c8b47;
+    color: white;
+}
+
+#user {
+    display: none;
+}
+
+#guest {
+    display: none;
+}
+
+#views {
+    display: none;
+}
+
+.home,
+.create,
+.login,
+.register {
+    display: none;
+}
+

@@ -1,0 +1,22 @@
+{
+    "suvs": {
+        "1": {
+            "model": "Eclipse cross",
+            "description": "A fusion of sharp coupe looks and dynamic SUV mobility with signature Mitsubishi styling and performance."
+        },
+        "2": {
+            "model": "Outlander",
+            "description": "The all-new Outlander PHEV model delivers more powerful road performance and greater driving range."
+        },
+        "3": {
+            "model": "Triton",
+            "description": " High maneuverability achieved by superb performance and easy handling."
+        },
+        "4": {
+            "model": "Pajero",
+            "description": " Genuine off-road SUV with tough and rigid ladder frame."
+        }
+    },
+    "cars": {},
+    "minicar": {}
+}
